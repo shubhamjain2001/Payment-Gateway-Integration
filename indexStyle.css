@@ -1,0 +1,73 @@
+body{
+
+    background-image: url(img/donation.jpg);
+    background-size: 100% 70%;
+
+}
+
+.carsual{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    height: 250px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+
+}
+.about{
+    background-color:silver;
+    margin-top: 50px;
+}
+
+
+#button{
+    display: flex;
+
+}
+.aboutlogo{
+    text-decoration: none;
+}
+
+footer {
+	padding:20px;
+   background:blueviolet !important;
+   color:white
+}
+
+
+.sub-footer  {
+	background:#363636;
+   padding:30px;
+   color: floralwhite;
+   text-align: center;
+}
+
+footer h4 {
+	margin-bottom:30px;
+	text-transform:uppercase;
+	text-shadow:none;
+	font-weight:550;
+	color:#fff;
+}
+
+.mobile{
+  margin-left: -1cm;
+}
+
+.footer-mid{
+   margin-top:2cm;
+   margin-left:-0.5cm;
+   position: relative;
+}
+
+
+.form-group{
+  padding: 5px;
+
+  width: 80%;
+}
+
+.link-color{
+color:white;
+}
